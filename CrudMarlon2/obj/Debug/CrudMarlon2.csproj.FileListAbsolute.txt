@@ -1,0 +1,5 @@
+C:\Users\mathw\source\repos\CrudMarlon2\CrudMarlon2\obj\Debug\CrudMarlon2.csprojAssemblyReference.cache
+C:\Users\mathw\source\repos\CrudMarlon2\CrudMarlon2\obj\Debug\CrudMarlon2.CrudMarlon2.resources
+C:\Users\mathw\source\repos\CrudMarlon2\CrudMarlon2\obj\Debug\CrudMarlon2.Properties.Resources.resources
+C:\Users\mathw\source\repos\CrudMarlon2\CrudMarlon2\obj\Debug\CrudMarlon2.csproj.GenerateResource.cache
+C:\Users\mathw\source\repos\CrudMarlon2\CrudMarlon2\obj\Debug\CrudMarlon2.csproj.CoreCompileInputs.cache
